@@ -50,7 +50,7 @@ function Hero() {
         <a href={CV} download>
           <button className="hover">Resume</button>
         </a>
-        <a href="" >
+        <a href="https://github.com/gitbykaran?tab=repositories" >
           <button className="hover">Projects</button>
         </a>
       </div>
