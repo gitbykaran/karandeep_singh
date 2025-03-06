@@ -7,7 +7,7 @@ import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
 import githubIcon from '../../assets/github.svg';
 
-import CV from '../../assets/karandeepresume.pdf';
+import CV from '../../assets/karan_cv_final.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 function Hero() {
@@ -48,7 +48,7 @@ function Hero() {
         Turning data into decisions, insights into impact. 📊🚀
         </p>
         <a href={CV} download>
-          <button className="hover">Resume</button>
+          <button className="hover">CV</button>
         </a>
         <a href="https://github.com/gitbykaran?tab=repositories" >
           <button className="hover">Projects</button>
